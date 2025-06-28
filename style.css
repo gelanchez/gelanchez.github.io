@@ -73,6 +73,16 @@ a:hover {
   filter: grayscale(0);
 }
 
+/* Privacy */
+.content {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.content p {
+  margin-bottom: 1rem;
+}
+
 /* Responsive Typography */
 @media (max-width: 600px) {
   h1 {
